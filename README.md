@@ -1,4 +1,4 @@
-# UCF High School Programming Contest 2024 (Division 2)
+# UCF High School Programming Contest 2024 (Div 2)
 
 This repository contains Python solutions to all challenges from the UCF High School Programming Contest 2024 (Division 2). Each problem is organized into its own directory, with the problem name as the folder title and the solution file inside. These solutions earned **First Place Champion** honors in Division 2.
 
