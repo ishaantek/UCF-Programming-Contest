@@ -41,7 +41,7 @@ The UCF High School Programming Contest is an annual event that challenges stude
 
   
 
-For more information, visit the [official website](https://hspt.ucfprogrammingteam.org/index.php).
+For more information, visit the <a href="https://hspt.ucfprogrammingteam.org/index.php" target="_blank">official website</a>.
 
 ## 📬 **Contact**
 
