@@ -48,6 +48,4 @@ For more information, visit the <a href="https://hspt.ucfprogrammingteam.org/ind
   
 
 For questions or feedback, feel free to contact me:
-
--  **Email:**  [ishaan@ishaantek.com](mailto:ishaan@ishaantek.com)
 -  **LinkedIn:**  [linkedin.com/in/garg-ishaan](https://www.linkedin.com/in/garg-ishaan)
